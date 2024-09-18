@@ -1,0 +1,6 @@
+@productivity_pulse_HostAddress = http://localhost:5072
+
+GET {{productivity_pulse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
